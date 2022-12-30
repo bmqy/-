@@ -6,7 +6,7 @@
 // @author       bmqy
 // @match        https://gltyx.github.io/immortality-idle/*
 // @match        https://yx.g8hh.com/immortality-idle/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=github.io
+// @icon         https://gltyx.github.io/immortality-idle/assets/images/favicon.png
 // @grant        none
 // @run-at       document-start
 // @license      MIT
